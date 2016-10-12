@@ -30,8 +30,11 @@ atan
 atanh
 attr
 attrib
+autoflush
 autothreading
+autothreads
 autovivification
+autovivifying
 backtrace
 baghash
 basename
@@ -83,6 +86,7 @@ complexstr
 composable
 compunit
 config
+configs
 cosec
 cosech
 cotan
@@ -105,9 +109,11 @@ datetime
 datetimes
 dbi
 dbish
+dbmclose
 declarator
 declarators
 decrement
+deepflat
 deepmap
 deliminates
 deprecations
@@ -120,6 +126,7 @@ dwim
 eigenstates
 elems
 elsif
+endgrent
 endian
 enum
 enumhow
@@ -152,8 +159,10 @@ ftfy
 getc
 getgrnam
 gethostbyname
+gethostent
 getlogin
 getnetbyname
+getnetent
 getopt
 getoptions
 getpeername
@@ -162,6 +171,7 @@ getpriority
 getprotobyname
 getpwnam
 getpwuid
+getsock
 getsockname
 getsockopt
 github
@@ -169,6 +179,7 @@ gmtime
 goto
 graphemes
 hashref
+haskell
 heredoc
 heredocs
 hotspot
@@ -176,6 +187,7 @@ href
 hyperwhatever
 ieee
 img
+incrementing
 indices
 inecza
 init
@@ -213,6 +225,7 @@ lta
 ltm
 lvalue
 lvalues
+macosx
 matcher
 matchers
 metacpan
@@ -256,6 +269,7 @@ ord
 ords
 orelse
 orwith
+outdented
 param
 params
 passwd
@@ -274,6 +288,7 @@ polymod
 pos
 posix
 postcircumfix
+postcircumfixed
 postcircumfixes
 postfix
 pragma
@@ -282,6 +297,7 @@ pre
 precomp
 pred
 prepend
+prepended
 printf
 proc
 proto
@@ -308,6 +324,8 @@ repl
 repo
 repr
 rethrow
+rethrown
+rfc
 rindex
 rmdir
 ro
@@ -321,6 +339,7 @@ samewith
 sech
 sed
 seekdir
+semget
 sep
 setbagmix
 sethash
@@ -353,6 +372,7 @@ stdout
 str
 stringification
 stringify
+subclassed
 submatch
 submatches
 submethod
@@ -375,6 +395,7 @@ tanh
 tbd
 tclc
 tcp
+teardown
 timestamp
 timtoady
 timtowtdi
@@ -383,6 +404,7 @@ tmp
 tmpdir
 tmtowtdi
 todo
+toolkits
 twigil
 twigils
 typeglobs
@@ -400,6 +422,7 @@ unary
 undef
 unescape
 unhandled
+unimatch
 uniname
 uninames
 unival
