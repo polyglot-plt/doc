@@ -22,6 +22,7 @@ apis
 arg
 args
 argv
+arithmetics
 arity
 arrayref
 asec
@@ -38,6 +39,7 @@ attr
 attrib
 attrs
 autoflush
+autothread
 autothreading
 autothreads
 autovivification
@@ -67,6 +69,7 @@ callframe
 callsame
 callwith
 camelia
+cancelled
 canonpath
 capslock
 carray
@@ -213,6 +216,7 @@ heredocs
 hotspot
 href
 hyperwhatever
+idx
 ieee
 ignorecase
 img
@@ -222,6 +226,7 @@ inecza
 inet
 infixes
 init
+initialised
 inode
 int
 ints
@@ -285,6 +290,7 @@ msb
 multi
 multiline
 multipleinheritance
+multiset
 multisub
 mysql
 namespace
@@ -348,6 +354,7 @@ postcircumfixed
 postcircumfixes
 postcondition
 postfix
+postmatch
 pragma
 pragma's
 pragmas
@@ -355,6 +362,7 @@ pre
 precomp
 precompilation
 pred
+prematch
 preorder
 prepend
 prepended
@@ -450,6 +458,7 @@ subclassed
 subclasses
 subexpressions
 sublist
+sublists
 submatch
 submatches
 submethod
@@ -533,6 +542,7 @@ ver
 versioning
 vm
 wantarray
+waypoints
 whatevercode
 whitespace
 wordcase
