@@ -30,6 +30,7 @@ asin
 asinh
 associativity
 ast
+asts
 async
 atan
 atanh
@@ -175,6 +176,7 @@ fmt
 foreach
 formatter
 formline
+frontend
 ftfy
 func
 gcd
@@ -347,6 +349,7 @@ postcircumfixes
 postcondition
 postfix
 pragma
+pragma's
 pragmas
 pre
 precomp
@@ -491,6 +494,9 @@ toolkits
 tos
 twigil
 twigils
+typecheck
+typechecked
+typechecks
 typeglobs
 typename
 tz
