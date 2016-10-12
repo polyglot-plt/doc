@@ -51,6 +51,7 @@ bigint
 bignum
 bigpage
 bigrat
+bindkey
 binmode
 bitwise
 bom
@@ -130,6 +131,7 @@ deepmap
 defn
 deliminates
 deprecations
+deserialize
 devnull
 dirhandle
 dirname
@@ -244,6 +246,7 @@ lexically
 lexicals
 lexpad
 lhf
+lhs
 listop
 localhost
 localtime
@@ -258,6 +261,7 @@ lvalues
 macosx
 matcher
 matchers
+meta
 metacpan
 metamodel
 metaobject
@@ -266,6 +270,7 @@ methodname
 minmax
 mixhash
 mixin
+mixins
 mkdir
 moar
 moarvm
@@ -287,6 +292,7 @@ natively
 nativesizeof
 nativetype
 netstat
+newdir
 nextsame
 nextwith
 nfd
@@ -318,6 +324,7 @@ perl
 perlfunc
 perlish
 perlito
+perllib
 perlop
 perlsyn
 perlvar
@@ -355,12 +362,15 @@ qqw
 qqww
 qqx
 qw
+qww
 qx
 radians
 radix
 rakudo
+rakudolib
 ratstr
 readchars
+readline
 readlink
 readme
 readonly
@@ -373,9 +383,12 @@ regexes
 repl
 repo
 repr
+resumable
 rethrow
 rethrown
+rewinddir
 rfc
+rhs
 rindex
 rmdir
 ro
@@ -427,6 +440,8 @@ str
 stringification
 stringify
 subclassed
+subclasses
+subexpressions
 sublist
 submatch
 submatches
@@ -440,6 +455,7 @@ substring
 subtest
 subtests
 subthread
+subtree
 subtype
 succ
 superclass
