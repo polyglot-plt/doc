@@ -36,6 +36,7 @@ backtrace
 baghash
 basename
 baz
+behaviour
 bigint
 bignum
 bigpage
@@ -76,6 +77,7 @@ codepoint
 codepoints
 coderef
 colonpair
+colour
 comparator
 complexstr
 composable
@@ -373,6 +375,7 @@ timtoady
 timtowtdi
 tmp
 tmpdir
+tmtowtdi
 todo
 twigil
 twigils
