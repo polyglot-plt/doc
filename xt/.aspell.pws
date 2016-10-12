@@ -202,6 +202,8 @@ gmtime
 goto
 grapheme
 graphemes
+gz
+gzip
 hashref
 haskell
 heredoc
@@ -307,6 +309,7 @@ num
 numstr
 nyi
 objat
+oneline
 opaquepointer
 opcode
 optimizations
@@ -412,6 +415,7 @@ setpgrp
 setpriority
 setsockopt
 setty
+sha
 shiftwidth
 sigil
 sigiled
