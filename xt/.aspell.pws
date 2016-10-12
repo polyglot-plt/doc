@@ -117,6 +117,7 @@ deepflat
 deepmap
 deliminates
 deprecations
+devnull
 dirname
 disambiguates
 dl
@@ -210,6 +211,7 @@ json
 jvm
 knowhow
 kv
+kvpair
 kxxv
 lcfirst
 lexically
@@ -265,6 +267,7 @@ num
 numstr
 nyi
 opaquepointer
+opcode
 ord
 ords
 orelse
@@ -286,6 +289,7 @@ pid
 png
 polymod
 pos
+positionals
 posix
 postcircumfix
 postcircumfixed
@@ -315,6 +319,7 @@ ratstr
 readlink
 readme
 readonly
+readpipe
 recurse
 recv
 refactor
@@ -354,6 +359,7 @@ sigint
 sigkill
 sigspace
 sinh
+sizeof
 slurpy
 smartmatch
 smartmatches
