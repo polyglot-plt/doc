@@ -112,6 +112,7 @@ deepmap
 deliminates
 deprecations
 dirname
+disambiguates
 dl
 dt
 duckmap
@@ -235,6 +236,7 @@ nan
 nativecall
 nativecast
 nativesizeof
+nativetype
 netstat
 nextsame
 nextwith
@@ -322,6 +324,7 @@ seekdir
 sep
 setbagmix
 sethash
+setpgrp
 setsockopt
 setty
 shiftwidth
@@ -338,6 +341,7 @@ smartmatches
 spesh
 splitdir
 splitpath
+splitter
 sprintf
 sqrt
 srand
@@ -349,6 +353,7 @@ stdout
 str
 stringification
 stringify
+submatch
 submatches
 submethod
 submethods
@@ -373,6 +378,7 @@ tcp
 timestamp
 timtoady
 timtowtdi
+tmi
 tmp
 tmpdir
 tmtowtdi
@@ -392,6 +398,7 @@ umask
 unallowed
 unary
 undef
+unescape
 unhandled
 uniname
 uninames
