@@ -21,6 +21,7 @@ api
 apis
 arg
 argfiles
+argless
 args
 argv
 arithmetics
@@ -67,6 +68,8 @@ buildall
 builtin
 builtins
 bytecode
+callables
+callee
 callframe
 callsame
 callwith
@@ -97,6 +100,7 @@ codepoints
 coderef
 colonpair
 colour
+combinator
 comparator
 complexstr
 composable
@@ -134,9 +138,12 @@ declarators
 decrement
 deepflat
 deepmap
+definedness
 defn
 deliminates
 deprecations
+dereference
+dereferencing
 deserialize
 devnull
 dirhandle
@@ -151,6 +158,7 @@ elems
 elsif
 endgrent
 endian
+enqueues
 enum
 enumhow
 enums
@@ -176,6 +184,7 @@ filehandle
 filehandles
 filename
 filenames
+filesystem
 flatmap
 fmt
 foreach
@@ -233,6 +242,7 @@ inode
 int
 ints
 intstr
+invocable
 invocant
 invocants
 ipc
@@ -245,7 +255,9 @@ iterables
 iterationend
 iteratively
 jdb
+jepgs
 jit
+jpeg
 json
 jvm
 knowhow
@@ -282,6 +294,7 @@ minmax
 mixhash
 mixin
 mixins
+mixy
 mkdir
 moar
 moarvm
@@ -312,6 +325,7 @@ nfkc
 nfkd
 niecza
 nl
+nofile
 nok
 nom
 nqp
@@ -331,7 +345,9 @@ outdented
 param
 params
 paren
+parsefile
 passwd
+patharg
 pdf
 perl
 perlfunc
@@ -377,6 +393,8 @@ qq
 qqw
 qqww
 qqx
+quanthash
+queueing
 qw
 qww
 qx
@@ -402,6 +420,7 @@ repr
 resumable
 rethrow
 rethrown
+rethrows
 rewinddir
 rfc
 rhs
@@ -432,6 +451,7 @@ sha
 shiftwidth
 sigil
 sigiled
+sigilless
 sigils
 sigint
 sigkill
@@ -455,7 +475,10 @@ stdin
 stdout
 str
 stringification
+stringified
+stringifies
 stringify
+subbuf
 subclassed
 subclasses
 subexpressions
@@ -465,6 +488,7 @@ submatch
 submatches
 submethod
 submethods
+subparse
 subref
 subscripting
 subst
@@ -532,6 +556,9 @@ unlink
 unordered
 unshift
 unspace
+unthrown
+untrusted
+untyped
 updir
 uri
 useqq
