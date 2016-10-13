@@ -20,6 +20,7 @@ anyof
 api
 apis
 arg
+argfiles
 args
 argv
 arithmetics
@@ -45,6 +46,7 @@ autothreads
 autovivification
 autovivifying
 backtick
+backticks
 backtrace
 baghash
 basename
