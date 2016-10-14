@@ -171,6 +171,7 @@ dirname
 disambiguates
 distro
 dl
+documentable
 documentables
 dsl
 dsls
@@ -282,6 +283,7 @@ heredoc
 heredocs
 hotspot
 href
+htmlify
 hup
 hyperiterable
 hyperoperator
