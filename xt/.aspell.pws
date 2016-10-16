@@ -48,6 +48,7 @@ atan
 atanh
 attr
 attrib
+attributecontainer
 attrs
 autoflush
 autoincrement
@@ -65,6 +66,7 @@ backtrace
 backtraces
 baggy's
 baghash
+baghashes
 basename
 baz
 behaviour
@@ -224,6 +226,7 @@ fc
 fcntl
 fff
 fh
+filechanged
 filechangeevent
 filehandle
 filehandles
@@ -282,6 +285,7 @@ globals
 gmtime
 gmtime's
 goto
+grabpairs
 grapheme
 graphemes
 gz
@@ -499,6 +503,7 @@ preorder
 prepend
 prepended
 printf
+privatemethodcontainer
 proc
 programmatically
 proto
@@ -576,6 +581,7 @@ serializable
 setbagmix
 setgrent
 sethash
+sethashes
 sethostent
 setnetent
 setpgrp
@@ -660,6 +666,7 @@ sudo
 superclass
 superclasses
 superset
+sym
 symlink
 symlinks
 syntaxes
