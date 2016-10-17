@@ -14,6 +14,7 @@ addr
 addrtype
 adhoc
 algorithmically
+alikes
 allcaps
 allof
 allomorph
@@ -49,6 +50,7 @@ atanh
 attr
 attrib
 attributecontainer
+attrinit
 attrs
 autoflush
 autoincrement
@@ -81,6 +83,8 @@ bitwise
 bom
 bool
 booleans
+boolifies
+boolify
 buf
 buildall
 buildplan
@@ -94,10 +98,12 @@ callsame
 callwith
 camelia
 cancelled
+cando
 canonpath
 capslock
 carray
 carrays
+caseless
 catdir
 catfile
 catpath
@@ -130,6 +136,7 @@ cond
 config
 configs
 cosec
+cosecant
 cosech
 cotan
 cotanh
@@ -145,6 +152,7 @@ cunion
 cunions
 curdir
 curpdir
+currentthreadscheduler
 curupdir
 customising
 cwd
@@ -158,9 +166,11 @@ dbmclose
 dbname
 declarator
 declarators
+decontainerization
 decrement
 deepflat
 deepmap
+defaultparent
 definedness
 defn
 deliminates
@@ -184,6 +194,7 @@ dsl
 dsls
 dt
 duckmap
+durations
 dwim
 egid
 eigenstate
@@ -248,6 +259,7 @@ fsvo
 ftfy
 func
 gcd
+geodesists
 getc
 getgrent
 getgrgid
@@ -294,10 +306,12 @@ hashref
 haskell
 heredoc
 heredocs
+hexdump
 hotspot
 href
 htmlify
 hup
+hyperbolicus
 hyperiterable
 hyperoperator
 hyperoperators
@@ -317,6 +331,7 @@ inode
 int
 ints
 intstr
+invalidformat
 invocable
 invocant
 invocant's
@@ -338,6 +353,7 @@ jpegs
 json
 junctive
 jvm
+keyof
 knowhow
 kv
 kvpair
@@ -381,6 +397,7 @@ methodcontainer
 methodname
 minmax
 mixhash
+mixhashes
 mixin
 mixins
 mixy
@@ -392,6 +409,8 @@ mojolicious
 moo
 moore's
 mro
+mrobasedmethoddispatch
+mrobasedtypechecking
 msb
 msgctl
 msgget
@@ -400,6 +419,7 @@ msgrvc
 msgsnd
 multi
 multiline
+multimethodcontainer
 multipleinheritance
 multiset
 multisub
@@ -430,6 +450,7 @@ nok
 nom
 nosuchlang
 nosuchtype
+notfound
 nqp
 nqp's
 num
@@ -482,6 +503,7 @@ png
 polymod
 polymorphism
 pos
+positionalbindfailover
 positionals
 posix
 postcircumfix
@@ -506,6 +528,7 @@ printf
 privatemethodcontainer
 proc
 programmatically
+promisestatus
 proto
 protoregexes
 pseudopackage
@@ -535,6 +558,7 @@ readlink
 readme
 readonly
 readpipe
+rebless
 receiveonclosed
 recurse
 recv
@@ -573,6 +597,10 @@ sbin
 sech
 sed
 seekdir
+seekfrombeginning
+seekfromcurrent
+seekfromend
+seektype
 semget
 semop
 sep
@@ -637,6 +665,7 @@ structs
 subbuf
 subclassed
 subclasses
+subclassing
 subexpressions
 sublanguage
 sublist
@@ -686,6 +715,7 @@ teardown
 telldir
 timestamp
 timestamps
+timezoneclash
 timtoady
 timtowtdi
 titlecase
