@@ -52,6 +52,7 @@ attrib
 attributecontainer
 attrinit
 attrs
+auth
 autoflush
 autoincrement
 autothread
@@ -120,6 +121,7 @@ circumfix
 cis
 classhow
 classname
+classtut
 closedir
 cmd
 cmp
@@ -138,6 +140,7 @@ cond
 config
 configs
 controlflow
+coprime
 cosec
 cosecant
 cosech
@@ -303,6 +306,7 @@ goto
 grabpairs
 grapheme
 graphemes
+groupname
 gz
 gzip
 hashref
@@ -399,6 +403,7 @@ metaobject
 metaoperator
 methodcontainer
 methodname
+minibuffer
 minmax
 mixhash
 mixhashes
@@ -452,6 +457,7 @@ nfkc
 nfkd
 niecza
 nl
+nodispatcher
 nofile
 nok
 nom
@@ -466,6 +472,7 @@ nqp
 nqp's
 num
 numify
+nums
 numstr
 nyi
 objat
@@ -486,6 +493,8 @@ orwith
 outdented
 outliers
 outofrange
+pairup
+parallelize
 param
 parameterization
 params
@@ -574,6 +583,8 @@ rebless
 receiveonclosed
 recurse
 recv
+redeclaration
+redeclarations
 redispatch
 redispatcher
 refactor
@@ -604,6 +615,7 @@ rvalues
 rw
 samecase
 samemark
+samespace
 samewith
 sbin
 sech
@@ -664,6 +676,7 @@ sprintf
 sqrt
 srand
 src
+stagestats
 startpos
 stayopen
 stderr
@@ -687,6 +700,7 @@ submatch
 submatches
 submethod
 submethods
+subname
 subparse
 subref
 subrules
@@ -753,6 +767,7 @@ typechecks
 typeglobs
 typename
 typeobject
+typesystem
 tz
 uc
 ucfirst
