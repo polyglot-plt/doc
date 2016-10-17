@@ -107,6 +107,7 @@ caseless
 catdir
 catfile
 catpath
+causeonlyvalidonbroken
 charset
 charsorbytes
 chdir
@@ -131,10 +132,12 @@ combinator
 comparator
 complexstr
 composable
+compositionnotcomposable
 compunit
 cond
 config
 configs
+controlflow
 cosec
 cosecant
 cosech
@@ -332,6 +335,7 @@ int
 ints
 intstr
 invalidformat
+invalidqualifier
 invocable
 invocant
 invocant's
@@ -420,7 +424,9 @@ msgsnd
 multi
 multiline
 multimethodcontainer
+multiness
 multipleinheritance
+multipletypeconstraints
 multiset
 multisub
 mustbestarted
@@ -428,6 +434,7 @@ mutator
 mutators
 mutex
 mysql
+nameclash
 namespace
 namespaces
 nan
@@ -448,8 +455,12 @@ nl
 nofile
 nok
 nom
+nopackage
 nosuchlang
 nosuchtype
+notcomposable
+notcomposed
+notdynamic
 notfound
 nqp
 nqp's
@@ -524,6 +535,7 @@ prematch
 preorder
 prepend
 prepended
+prepost
 printf
 privatemethodcontainer
 proc
@@ -603,6 +615,7 @@ seekfromend
 seektype
 semget
 semop
+sendonclosed
 sep
 seqs
 serializable
@@ -713,6 +726,7 @@ tclc
 tcp
 teardown
 telldir
+threadpoolscheduler
 timestamp
 timestamps
 timezoneclash
@@ -738,6 +752,7 @@ typechecked
 typechecks
 typeglobs
 typename
+typeobject
 tz
 uc
 ucfirst
@@ -792,12 +807,14 @@ wantarray
 waypoints
 wfm
 whatevercode
+whatevercodes
 whitespace
 whoami
 wildcard
 wildcards
 wip
 wordcase
+wraphandle
 writehandle
 wrongorder
 ws
