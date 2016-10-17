@@ -520,7 +520,7 @@ For integer conversions, specifying a precision implies that the
 output of the number itself should be zero-padded to this width, where
 the C<0> flag is ignored:
 
-(Note that this feature currenly works for unsigned integer conversions, but not
+(Note that this feature currently works for unsigned integer conversions, but not
 for signed integer.)
 
   NYI sprintf '<%.6d>', 1;      # "<000001>"
@@ -932,7 +932,7 @@ C<NFKD> methods if other forms are required.
 
 Replaces one or many characters with one or many characters. Ranges are
 supported, both for keys and values. Regexes work as keys. In case a list of
-keys and values is used, substrings can be replaced aswell. When called with
+keys and values is used, substrings can be replaced as well. When called with
 C<:complement> anything but the matched value or range is replaced with a
 single value. With C<:delete> the matched characters are removed.  Combining
 C<:complement> and C<:delete> will remove anything but the matched values.  The
