@@ -1,3 +1,17 @@
+Barewords
+BoolificationProtocol
+Entrapments
+Euler's
+InvocationProtocol
+KD
+Khaleesi
+OptionParser
+Orson
+Pinnsler
+PostgreSQL
+PrecompilationRepository
+REPRComposeProtocol
+Shoveller
 abi
 abspath
 accessor
@@ -13,6 +27,7 @@ addr
 addrtype
 adhoc
 alap
+alef
 algorithmically
 alikes
 allcaps
@@ -116,6 +131,7 @@ catdir
 catfile
 catpath
 causeonlyvalidonbroken
+cglobal
 charset
 charsorbytes
 chdir
@@ -147,9 +163,11 @@ composable
 compositionnotcomposable
 compunit
 compunits
+concat
 cond
 config
 configs
+const
 controlflow
 coprime
 cosec
@@ -174,10 +192,14 @@ curupdir
 customising
 cwd
 cygwin
+daenerys
 dalek
+dany
+dataflow
 dateish
 datetime
 datetimes
+daycount
 dbi
 dbish
 dbm
@@ -223,12 +245,14 @@ duckmap
 durations
 dwim
 dwimmery
+dynlib
 egid
 eigenstate
 eigenstates
 elems
 else's
 elsif
+enclosable
 endgrent
 endhostent
 endian
@@ -238,6 +262,7 @@ endprotoent
 endpwent
 endservent
 enqueues
+ents
 enum
 enumhow
 enums
@@ -251,6 +276,7 @@ errno
 euid
 eval
 evalbytes
+evaled
 evalfile
 executables
 exitcode
@@ -260,6 +286,7 @@ expr
 extern
 eyewear
 failover
+fallbacks
 false's
 fatrat
 fc
@@ -283,10 +310,12 @@ foreach
 formatter
 formline
 freenode
+frodo
 frontend
 fsvo
 ftfy
 func
+gc
 gcd
 genericsocket
 geodesists
@@ -337,6 +366,8 @@ groupname
 gvim
 gz
 gzip
+hamza
+hardcoded
 hashref
 haskell
 heredoc
@@ -354,22 +385,30 @@ hyperwhatever
 idx
 ieee
 ignorecase
+illuminatus
+im
 img
 incrementer
 incrementing
 indices
+indirections
 inecza
 inet
 infixes
+ini
 init
 initialised
 initializer
+initializers
 inittime
 inlined
 inlining
 inode
 inplace
+instantiation
 int
+interop
+interoperability
 interoperation
 ints
 intstr
@@ -382,6 +421,7 @@ invocants
 ipc
 irc
 isa
+isengard
 ish
 isnan
 isnt
@@ -391,10 +431,14 @@ iterationend
 iteratively
 iwbn
 jdb
+jdv
+jdv's
 jepgs
 jit
+joffrey
 jpeg
 jpegs
+jpg
 json
 junctive
 jvm
@@ -403,6 +447,7 @@ knowhow
 kv
 kvpair
 kxxv
+langs
 lcfirst
 ld
 lexically
@@ -411,12 +456,15 @@ lexing
 lexpad
 lhf
 lhs
+libs
 linearize
 linenoise
 listop
+listops
 listy
 lizmat
 localhost
+localport
 localtime
 longlong
 lookahead
@@ -433,6 +481,7 @@ lvalue
 lvalues
 macosx
 macvim
+maketemp
 mappable
 matcher
 matchers
@@ -456,6 +505,7 @@ mixhashes
 mixin
 mixins
 mixy
+mjd
 mkdir
 moar
 moarvm
@@ -464,6 +514,7 @@ mojo
 mojolicious
 moo
 moore's
+mplayer
 mro
 mrobasedmethoddispatch
 mrobasedtypechecking
@@ -475,6 +526,7 @@ msgrvc
 msgsnd
 msi
 multi
+multidispatch
 multiline
 multimethodcontainer
 multiness
@@ -487,6 +539,7 @@ mustbestarted
 mutator
 mutators
 mutex
+mysection
 mysql
 nameclash
 namespace
@@ -548,6 +601,7 @@ openforwriting
 opstring
 optimizations
 optname
+optparse
 optval
 ord
 ords
@@ -556,6 +610,8 @@ ors
 orwith
 osname
 outdented
+outer's
+outers
 outliers
 outofrange
 overridable
@@ -563,6 +619,7 @@ pairup
 parallelize
 param
 parameterization
+parameterized
 params
 paren
 parsefile
@@ -609,6 +666,7 @@ pragmas
 pre
 precomp
 precompilation
+precompiled
 pred
 prematch
 preorder
@@ -624,6 +682,7 @@ promisestatus
 proto
 proto's
 protoregexes
+prototyped
 pseudopackage
 pygments
 qast
@@ -633,6 +692,7 @@ qqw
 qqww
 qqx
 quanthash
+quasiquoting
 queueing
 queuesize
 quickstart
@@ -643,6 +703,7 @@ qww
 qx
 radians
 radix
+raja
 rakuda
 rakudo
 rakudo's
@@ -653,6 +714,7 @@ readchars
 readdir
 readhandle
 readline
+readlines
 readlink
 readme
 readonly
@@ -660,6 +722,7 @@ readpipe
 rebless
 receiveonclosed
 recurse
+recursing
 recv
 redeclaration
 redeclarations
@@ -670,6 +733,7 @@ refactor
 regex
 regexes
 reification
+reified
 repl
 repo
 repr
@@ -677,6 +741,7 @@ resumable
 rethrow
 rethrown
 rethrows
+reusability
 rewinddir
 rfc
 rhs
@@ -686,16 +751,20 @@ rmdir
 ro
 rolecontainer
 rootdir
+rotoring
 roundrobin
 rubygems
+rubylib
 runtime
 rvalue
 rvalues
 rw
+rwx
 samecase
 samemark
 samespace
 samewith
+saruman
 sbin
 sech
 sed
@@ -735,6 +804,7 @@ shmget
 shmread
 shmwrite
 shortcircuits
+should've
 sig
 sigil
 sigiled
@@ -744,6 +814,7 @@ sigils
 sigint
 sigkill
 sigspace
+simsalabim
 sinh
 sizeof
 slangs
@@ -754,6 +825,7 @@ smartmatches
 smartmatching
 socketpair
 sourcecode
+spectest
 spesh
 splitdir
 splitpath
@@ -775,6 +847,7 @@ stringified
 stringifies
 stringify
 stringifying
+struct
 structs
 subbuf
 subclassed
@@ -806,6 +879,7 @@ subtests
 subthread
 subtree
 subtype
+subtypes
 subtyping
 succ
 sudo
@@ -835,6 +909,7 @@ threadpoolscheduler
 timestamp
 timestamps
 timezoneclash
+timezones
 timtoady
 timtowtdi
 titlecase
@@ -842,6 +917,7 @@ tmi
 tmp
 tmpdir
 tmtowtdi
+toc
 todo
 tol
 toolchain
@@ -907,6 +983,7 @@ utc
 utf
 utime
 vals
+valueidentifier
 variadic
 varlist
 vec
@@ -925,10 +1002,13 @@ whatevercode
 whatevercodes
 whitespace
 whoami
+wikia
 wildcard
 wildcards
 wip
+wombling
 wordcase
+wormtongue
 wraphandle
 writehandle
 wrongorder
@@ -936,6 +1016,7 @@ ws
 xcompose
 xeqv
 yada
+yeh
 yoleaux
 yolo
 yyyy
